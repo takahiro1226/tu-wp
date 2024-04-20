@@ -1,0 +1,5 @@
+ec2
+rds
+s3
+cloudfront
+ALB
